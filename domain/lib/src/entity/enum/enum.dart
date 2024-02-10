@@ -1,0 +1,1 @@
+enum GameResult { success, failure }
